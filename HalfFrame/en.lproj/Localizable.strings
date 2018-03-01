@@ -1,0 +1,11 @@
+/*
+ Localizable.strings
+ 
+ 
+ Created by Karthick on 12/27/17.
+ Copyright © 2017 tech. All rights reserved.
+ */
+
+//Titles
+"RegisterTitle" = "REGISTER";
+"NotificationTitle" = "NOTIFICATION";
